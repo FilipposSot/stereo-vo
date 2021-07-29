@@ -15,5 +15,5 @@ To do (coming soon)
 
 ## Sample results
 
-![](animations/trajectory.gif| width=500)
-![](animations/tracking.gif| width=500)
+<img src="animations/trajectory.gif" width="700">
+<img src="animations/tracking.gif" width="700">
