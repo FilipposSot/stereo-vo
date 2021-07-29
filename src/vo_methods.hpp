@@ -11,8 +11,6 @@ Author: Filippos Sotiropoulos (filippos.sotiropoulos@gmail.com)
 #include "opencv2/xfeatures2d.hpp"
 #include "opencv2/calib3d/calib3d.hpp"
 
-#include <gtsam/nonlinear/NonlinearFactorGraph.h>
-
 #include <iostream>
 #include <ctype.h>
 #include <algorithm> // for copy
