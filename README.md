@@ -1,12 +1,16 @@
 # stereo-vo
-C++ Stereo Visual Odometry repository for experimenting with concepts in compute vision.
-## Objective
 
+WORK IN PROGRESS 
+
+C++ Stereo Visual Odometry repository for experimenting with concepts in compute vision.
+
+## Objective
+coming soon
 ## Method
-To do (coming soon)
+coming soon
 
 ## Installation 
-
+coming  soon
 ### Prerequisites and Data
 #### OpenCV
 #### KITTI dataset
